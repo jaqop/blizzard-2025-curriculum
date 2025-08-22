@@ -1,96 +1,135 @@
-Blizzard 2025 Gold Standard Curriculum 🎮
+# 🎮 Blizzard 2025 Gold Standard Curriculum
+*A Modern Career Development Framework for Game Engine & Systems Programmers*
 
-A modern, milestone-driven reading list for aspiring game engine and systems programmers. This curriculum modernizes the classic Blizzard Software Engineering reading list for 2025, focusing on Modern C++, game architecture patterns, and professional engineering habits.
+A modern, milestone-driven reading list for aspiring game engine and systems programmers.  
+This curriculum modernizes the classic Blizzard Software Engineering reading list for 2025, focusing on **Modern C++**, **game architecture patterns**, and **professional engineering habits**.
 
-Origins & Philosophy
+---
 
-This curriculum is a modern homage to the original Blizzard Software Engineering Reading List curated by Jay Baxter circa 2009. That list was legendary for its rigorous approach to crafting well-rounded, professional C++ engineers within a game development context.
+## 📖 Origins & Philosophy
 
-Our goal with this 2025 edition is to honor the spirit and intent of Baxter's original vision—deep C++ mastery, software engineering fundamentals, and professional craftsmanship—while radically updating its contents for the contemporary era.
+This curriculum is a modern homage to the original **Blizzard Software Engineering Reading List** curated by *Jay Baxter* circa 2009.  
+That list was legendary for its rigorous approach to crafting well-rounded, professional C++ engineers within a game development context.
 
-What's New in the 2025 Edition?
+Our goal with this 2025 edition is to **honor the spirit and intent** of Baxter's original vision —  
+*deep C++ mastery, software engineering fundamentals, and professional craftsmanship* —  
+while radically updating its contents for the contemporary era.
 
-The original list was a product of its time, focused on C++98 and the tools of that era. To work effectively in 2025, the list required a significant evolution:
-Original Focus (c. 2009)	Modernized Focus (2025)
-C++98 / "C with Classes"	Modern C++ (C++17/20): RAII, smart pointers, move semantics, lambdas.
-General Software Engineering	Game-Engine Specialization: Data-Oriented Design, engine architecture, multiplayer.
-Theoretical Foundations	Applied Practice: Paired with hands-on projects at every tier.
-Individual Contribution	Technical Leadership: Incorporates modern senior IC skills (The Staff Engineer's Path).
+---
 
-This list is our attempt to answer the question: "What would a Jay Baxter-style curriculum look like if it were created today?"
+## 🚀 What's New in the 2025 Edition?
 
-It is a living document. We will continue to update it as our industry evolves.
+The original list was a product of its time, focused on **C++98** and the tools of that era.  
+To work effectively in 2025, the list required a significant evolution:
 
-The Curriculum
+| Original Focus (2009) | Modernized Focus (2025) |
+|-----------------------|--------------------------|
+| **C++98 / "C with Classes"** | **Modern C++ (C++17/20):** RAII, smart pointers, move semantics, lambdas |
+| **General Software Engineering** | **Game-Engine Specialization:** Data-Oriented Design, engine architecture, multiplayer |
+| **Theoretical Foundations** | **Applied Practice:** Projects integrated at every tier |
+| **Individual Contribution** | **Technical Leadership:** Modern senior IC skills (*The Staff Engineer's Path*) |
 
-The list is structured as a progressive journey from foundational principles to architectural mastery. Each tier represents a career stage, defined by key books to internalize and a project to demonstrate mastery.
+This list is our attempt to answer the question:  
+**“What would a Jay Baxter–style curriculum look like if it were created today?”**
 
-Tier 1: Associate Developer (0–2 Years)
+It is a **living document.** We will continue to update it as our industry evolves.  
 
-Goal: Achieve fluency in Modern C++ and establish professional engineering habits.
+---
 
-Keystone Reads
+## 🌍 Core Curriculum
 
-    A Tour of C++ (Bjarne Stroustrup) – The concise map of modern C++ (C++17/20).
+The **core tiers** form the foundation of this curriculum. Every aspiring engineer should progress through these stages, regardless of specialization.
 
-    Programming: Principles and Practice Using C++ (Bjarne Stroustrup) – The comprehensive workbook.
+---
 
-    The Pragmatic Programmer (David Thomas & Andrew Hunt) – Professional craftsman mindset.
+### **Tier 1: Associate Developer (0–2 Years)**
+**Goal:** Achieve fluency in Modern C++ and establish professional engineering habits.
 
-    The Mythical Man-Month (Frederick P. Brooks Jr.) – Timeless lessons on software projects.
+- **A Tour of C++** — *Bjarne Stroustrup*  
+- **Programming: Principles and Practice Using C++** — *Bjarne Stroustrup*  
+- **The Pragmatic Programmer (20th Anniversary Edition)** — *Andrew Hunt & David Thomas*  
+- **The Mythical Man-Month** — *Frederick P. Brooks Jr.*  
 
-🛠️ Proof of Mastery: The Project
+📌 **Project:** Build small 2D games using SFML/SDL.  
 
-Build a portfolio of small, complete 2D games using a library like SFML or SDL.
+---
 
-Tier 2: Mid-Level Developer (2–5 Years)
+### **Tier 2: Mid-Level Developer (2–5 Years)**
+**Goal:** Master C++ idioms, design patterns, and core engine architecture.
 
-Goal: Master C++ idiomatics, design patterns, and core game engine architecture.
+- **Effective Modern C++** — *Scott Meyers*  
+- **Professional C++** — *Marc Gregoire*  
+- **Game Programming Patterns** — *Robert Nystrom*  
+- **Design Patterns: Elements of Reusable Object-Oriented Software (GoF)** — *Gamma, Helm, Johnson, Vlissides*  
+- **Game Engine Architecture (4th Edition)** — *Jason Gregory*  
+- **Refactoring (2nd Edition)** — *Martin Fowler*  
 
-Keystone Reads
+📌 **Project:** Implement an engine subsystem (renderer, physics, or resource loader).  
 
-    Effective Modern C++ (Scott Meyers) – Master safe, idiomatic C++.
+---
 
-    Game Programming Patterns (Robert Nystrom) – Practical patterns for game code.
+### **Tier 3: Senior Developer (5+ Years)**
+**Goal:** Design complex systems, lead technical strategy, and optimize for performance.
 
-    Game Engine Architecture (Jason Gregory) – The definitive guide to engine systems.
+- **C++ Concurrency in Action (2nd Edition)** — *Anthony Williams*  
+- **Data-Oriented Design** — *Richard Fabian*  
+- **Clean Architecture** — *Robert C. Martin*  
+- **Working Effectively with Legacy Code** — *Michael Feathers*  
+- **The Staff Engineer’s Path** — *Tanya Reilly*  
+- **Peopleware** — *Tom DeMarco & Timothy Lister*  
 
-    Refactoring (Martin Fowler) – The art of improving code safely.
+📌 **Project:** Develop a multiplayer prototype with optimized systems (networking, concurrency, DOD).  
 
-🛠️ Proof of Mastery: The Project
+---
 
-Design and implement a significant engine subsystem (e.g., a renderer, physics integrator, or resource manager).
+## ⚡ Specialization Tracks
 
-Tier 3: Senior Developer (5+ Years)
+After completing **Tier 2**, engineers may pursue one or more specialization tracks. These extend expertise beyond the shared core into domains vital for AAA-scale development.
 
-Goal: Design complex systems, lead technical strategy, and optimize for high performance.
+---
 
-Keystone Reads
+### 🔹 Track A: Distributed Systems & Online Infrastructure
+For engineers building multiplayer, live-service, or backend systems.
 
-    C++ Concurrency in Action (Anthony Williams) – Master multithreading.
+- **Designing Data-Intensive Applications** — *Martin Kleppmann*  
+- **Production-Ready Microservices** — *Susan J. Fowler*  
 
-    Data-Oriented Design (Richard Fabian) – Philosophy for high-performance code.
+---
 
-    Clean Architecture (Robert C. Martin) – Design systems with clear boundaries.
+### 🔹 Track B: Low-Level Graphics & Rendering
+For engineers working on rendering, graphics APIs, and performance-critical engine code.
 
-    Working Effectively with Legacy Code (Michael Feathers) – Tame and modernize large codebases.
+- **Foundations of Game Engine Development, Vol. 2: Rendering** — *Eric Lengyel*  
+- **Vulkan Programming Guide** — *Graham Sellers*  
+  OR  
+  **Introduction to 3D Game Programming with DirectX 12** — *Frank Luna*  
+- **Real-Time Rendering (4th Edition)** — *Tomas Akenine-Möller et al.*  
 
-    The Staff Engineer's Path (Tanya Reilly) – Lead through influence and strategy.
+---
 
-    Peopleware (Tom DeMarco & Timothy Lister) – Build productive teams and environments.
+### 🔹 Track C: Production Engineering & DevOps
+For engineers optimizing pipelines, infrastructure, and collaboration at scale.
 
-🛠️ Proof of Mastery: The Project
+- **The DevOps Handbook** — *Gene Kim et al.*  
+- **Infrastructure as Code** — *Kief Morris*  
+- **Practical Skills & Tools:**  
+  - **Perforce Helix Core** → branching, streams, handling large binaries  
+  - **Git LFS** → versioning large assets in Git  
+  - **Docker / Kubernetes** → containerization and orchestration  
+  - **CI/CD Platforms** (e.g., Jenkins, GitLab CI, TeamCity)  
 
-Architect, build, and optimize a networked systems prototype, focusing on concurrency, data-oriented design, and latency mitigation.
+---
 
-How to Use This List
+## 🗝️ How to Use This Curriculum
 
-    Read Progressively. Each tier builds on the last. Do not skip ahead.
+1. **Master the Core.** The three tiers are the non-negotiable foundation.  
+2. **Choose Your Track.** After Tier 2, specialize based on your career goals and team needs.  
+3. **Prove Through Projects.** Each tier requires hands-on projects — knowledge without application fades.  
+4. **Evolve Continuously.** This is a living curriculum. As tools and practices evolve, so should you.  
 
-    Build the Projects. Knowledge without application is forgotten. The projects are non-optional proof of understanding.
+---
 
-    Seek Depth. This list shows the keystone milestones. For deeper study on a topic, explore the books referenced in the footnotes of these texts.
+## 📜 License
 
-License
-
-This list is provided under the MIT License. Feel free to use, share, and adapt it for your own learning journey.
+This curriculum is shared under the **MIT License**.  
+Use it, adapt it, and expand it for your own journey.  
