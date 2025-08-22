@@ -133,3 +133,94 @@ These additions ensure the curriculum **produces developers ready for real AAA g
 
 Shared under the **MIT License**.  
 Use, adapt, and expand it for your own learning journey.  
+
+
+
+# 📚 Blizzard Software Engineering Reading  
+by **Jay Baxter (circa 2009)**  
+
+---
+
+## 🎮 Associate Developer  
+
+> *"This list is for people who want to become Associate Software Engineers at Blizzard.  
+> An associate should have skills at the level indicated by these books. Note that this is almost completely focused on C++ programming.  
+> This list is incomplete. I need a book on how to become a professional. I've listed several books that give examples of professional behavior, but not one on the actual training."*  
+
+- **Programming: Principles and Practice Using C++** — *Bjarne Stroustrup*  
+  > Beginner-to-intermediate. A deep dive into programming using C++.  
+
+- **C++ Primer Plus (5th Edition)** — *Stephen Prata*  
+  > Easier to read than Stroustrup, lighthearted tone.  
+
+- **C++ Projects: Programming with Text-Based Games** — *Michael Dawson*  
+  > Practical, project-based learning with simple games.  
+
+- **Beginning Game Programming** — *Michael Morrison*  
+- **Beginning Game Programming** — *Jonathan S. Harbour*  
+  > Two distinct books. Great project-based introductions with source code.  
+
+- **The Mythical Man-Month (Anniversary Edition, 2nd Ed.)** — *Frederick P. Brooks Jr.*  
+  > Classic essays on software engineering.  
+
+- **Joel on Software** — *Joel Spolsky*  
+  > Essays on software development and culture.  
+
+- **Programming Pearls (2nd Edition)** — *Jon Louis Bentley* *(Optional)*  
+  > Insightful problems and solutions in programming.  
+
+---
+
+## ⚔️ Mid-Level Developer  
+
+> *"This list is for people who want to become Mid-level Software Engineers at Blizzard.  
+> A mid-level engineer should have skills at the level indicated by these books.  
+> It’s about a year of reading — several hours a day, every day. The order is intentional."*  
+
+- **The Pragmatic Programmer: From Journeyman to Master** — *Andrew Hunt*  
+- **Object-Oriented Programming in C++** — *Nicolai M. Josuttis*  
+- **Thinking in C++ Vol. 1 & Vol. 2** — *Bruce Eckel*  
+- **Head First Design Patterns** — *Eric Freeman*  
+- **User Interface Design for Programmers** — *Joel Spolsky*  
+- **Debugging: The 9 Indispensable Rules** — *David J. Agans*  
+- **Code Reading: The Open Source Perspective** — *Diomidis Spinellis*  
+- **TCP/IP Sockets in C (2nd Edition)** — *Michael J. Donahoo* *(Optional)*  
+
+---
+
+## 🏆 Senior Developer  
+
+> *"This list is for people who want to become a Senior Software Engineer.  
+> A senior should have all the skills from Associate + Mid-level lists.  
+> This is a 3-year reading list, designed for depth, theory, and practice."*  
+
+- **Head First Software Development** — *Dan Pilone*  
+- **The Practice of Programming** — *Brian W. Kernighan*  
+- **Agile Software Development: Principles, Patterns, and Practices** — *Robert C. Martin*  
+- **Clean Code: A Handbook of Agile Software Craftsmanship** — *Robert C. Martin*  
+- **C++ Gotchas** — *Stephen C. Dewhurst*  
+- **Design Patterns Explained (2nd Edition)** — *Alan Shalloway*  
+- **TCP/IP Illustrated, Vol. 1: The Protocols** — *W. Richard Stevens*  
+- **Refactoring: Improving the Design of Existing Code** — *Kent Beck*  
+- **Secure Coding in C and C++** — *Robert C. Seacord*  
+- **The Software Development Edge** — *Joe Marasco*  
+- **The Passionate Programmer** — *Chad Fowler*  
+- **Facts and Fallacies of Software Engineering** — *Robert L. Glass*  
+- **Beautiful Code** — *Elliote Harold (ed.)*  
+- **C++ Templates: The Complete Guide** — *David Vandevoorde*  
+- **The C++ Standard Library: A Tutorial and Reference** — *Nicolai M. Josuttis*  
+- **Herb Schildt's C++ Programming Cookbook** — *Herbert Schildt*  
+- **Algorithms in a Nutshell** — *Gary Pollice*  
+- **Coders at Work** — *Peter Seibel*  
+
+---
+
+## 📝 Notes  
+
+- This original 2009 list was designed as a **career roadmap** for C++ and systems programmers.  
+- It focuses heavily on **C++ expertise, professional craftsmanship, debugging, networking, and patterns**.  
+- Later adaptations (like the **Blizzard 2025 Gold Standard Curriculum**) modernize this framework with **C++17/20, Data-Oriented Design, concurrency, and live-service backend knowledge**.  
+
+---
+
+📌 This is preserved here as a **historical artifact** and a foundation for modern updates.  
